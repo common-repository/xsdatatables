@@ -1,0 +1,567 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xsDatatables Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-30 16:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: xsdatatables"
+
+#: includes/column_action.php:101
+msgid " Added"
+msgstr ""
+
+#: includes/column_action.php:198
+msgid " Edited"
+msgstr ""
+
+#: includes/column.php:32
+msgid "#"
+msgstr ""
+
+#: includes/details.php:141 includes/details.php:732 includes/shortcode.php:336
+#: includes/table.php:323
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: includes/xsoption.php:78
+msgid ""
+"- Be very careful with this and only click the button if you know what you "
+"are doing!"
+msgstr ""
+
+#: includes/xsoption.php:76
+msgid ""
+"- Uninstalling <strong>will permanently delete</strong> all tables and "
+"options from the database."
+msgstr ""
+
+#: includes/xsoption.php:77
+msgid ""
+"- You will manually need to remove the plugin&#8217;s files from the plugin "
+"folder afterwards."
+msgstr ""
+
+#: includes/details.php:156 includes/details.php:746 includes/shortcode.php:351
+#: includes/table.php:338
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: includes/details.php:157 includes/details.php:747 includes/shortcode.php:352
+#: includes/table.php:339
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: includes/details.php:144 includes/shortcode.php:339 includes/table.php:326
+msgid "_MENU_"
+msgstr ""
+
+#: main.php:53
+msgid "About"
+msgstr ""
+
+#: includes/column.php:49 includes/details.php:67 includes/details.php:664
+#: includes/table.php:41
+msgid "Active"
+msgstr ""
+
+#: includes/column.php:61
+msgid "Add Column"
+msgstr ""
+
+#: includes/details.php:81 includes/details.php:395
+msgid "Add Row"
+msgstr ""
+
+#: includes/table.php:356
+msgid "Add Table"
+msgstr ""
+
+#: includes/column.php:37 includes/column.php:108
+msgid "Align"
+msgstr ""
+
+#: main.php:52 includes/table.php:16
+msgid "All Tables"
+msgstr ""
+
+#: includes/column.php:292 includes/column.php:402 includes/column.php:431
+msgid "Are you sure you want to change the status of this column?"
+msgstr ""
+
+#: includes/details.php:449 includes/details.php:502 includes/details.php:531
+#: includes/details.php:976 includes/details.php:993 includes/details.php:1022
+msgid "Are you sure you want to change the status of this row?"
+msgstr ""
+
+#: includes/table.php:367 includes/table.php:493 includes/table.php:522
+msgid "Are you sure you want to change the status of this table?"
+msgstr ""
+
+#: includes/column.php:369 includes/column.php:489
+msgid "Are you sure you want to delete this column?"
+msgstr ""
+
+#: includes/details.php:468 includes/details.php:589
+msgid "Are you sure you want to delete this row?"
+msgstr ""
+
+#: includes/table.php:457 includes/table.php:551
+msgid "Are you sure you want to delete this table?"
+msgstr ""
+
+#: includes/column.php:460
+msgid "Are you sure you want to duplicate this column?"
+msgstr ""
+
+#: includes/details.php:560
+msgid "Are you sure you want to duplicate this row?"
+msgstr ""
+
+#: includes/details.php:70 includes/details.php:666
+msgid "Are you sure you want to export this table?"
+msgstr ""
+
+#: includes/table.php:32
+msgid "Author"
+msgstr ""
+
+#: includes/table.php:167
+msgid "Body Background"
+msgstr ""
+
+#: includes/table.php:174
+msgid "Body Color"
+msgstr ""
+
+#: includes/table.php:124
+msgid "Categories ID"
+msgstr ""
+
+#: includes/details.php:161 includes/details.php:751 includes/shortcode.php:356
+#: includes/table.php:341
+msgid "Column"
+msgstr ""
+
+#: includes/column_action.php:101 includes/column_action.php:198
+msgid "Column "
+msgstr ""
+
+#: includes/column.php:193
+msgid "Column Background"
+msgstr ""
+
+#: includes/column.php:200
+msgid "Column Color"
+msgstr ""
+
+#: includes/column_action.php:266
+msgid "Column Copied"
+msgstr ""
+
+#: includes/table.php:63
+msgid "Column Count"
+msgstr ""
+
+#: includes/column_action.php:210 includes/column_action.php:281
+msgid "Column has been Deleted"
+msgstr ""
+
+#: includes/column_action.php:173 includes/column_action.php:224
+#: includes/column_action.php:238
+msgid "Column status change to "
+msgstr ""
+
+#: includes/column.php:135 includes/column.php:142 includes/column.php:149
+#: includes/column.php:156 includes/column.php:163
+msgid "Column Type"
+msgstr ""
+
+#: includes/column.php:209
+msgid "Create a drop-down list"
+msgstr ""
+
+#: includes/xsoption.php:61
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/xsoption.php:30
+msgid "Custom CSS updated successfully."
+msgstr ""
+
+#: includes/column.php:184
+msgid "Custom Filter"
+msgstr ""
+
+#: includes/xs_import.php:311
+msgid "Data Successfully Imported"
+msgstr ""
+
+#: includes/column.php:41 includes/details.php:46 includes/details.php:61
+#: includes/details.php:369 includes/table.php:36
+msgid "Delete"
+msgstr ""
+
+#: includes/table.php:34
+msgid "Details"
+msgstr ""
+
+#: includes/xsoption.php:81
+msgid "Do you really want to delete all data?"
+msgstr ""
+
+#: includes/column.php:51 includes/details.php:69
+msgid "Duplicate"
+msgstr ""
+
+#: includes/column.php:205
+msgid "Dynamic Field"
+msgstr ""
+
+#: includes/column.php:40 includes/details.php:45 includes/details.php:60
+#: includes/details.php:368 includes/table.php:35
+msgid "Edit"
+msgstr ""
+
+#: includes/column.php:357
+msgid "Edit Column"
+msgstr ""
+
+#: includes/details.php:434
+msgid "Edit Row"
+msgstr ""
+
+#: includes/table.php:53 includes/table.php:446
+msgid "Edit Table"
+msgstr ""
+
+#: includes/upload_action.php:131
+msgid "empty"
+msgstr ""
+
+#: includes/details.php:70 includes/details.php:176 includes/details.php:666
+#: includes/details.php:768 includes/shortcode.php:197
+msgid "Export"
+msgstr ""
+
+#: includes/column.php:34 includes/column.php:71
+msgid "Filter"
+msgstr ""
+
+#: includes/details.php:150 includes/details.php:740 includes/shortcode.php:345
+#: includes/table.php:332
+msgid "First"
+msgstr ""
+
+#: includes/table.php:154
+msgid "Header Background"
+msgstr ""
+
+#: includes/table.php:161
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/column.php:35 includes/column.php:88
+msgid "Hidden"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://xsdatatables.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://xsdatatables.com/documentation/"
+msgstr ""
+
+#: includes/shortcode.php:149
+msgid "ID"
+msgstr ""
+
+#: includes/xs_import.php:14
+msgid "Import from a CSV, XLS, XLSX or JSON File"
+msgstr ""
+
+#: includes/column.php:50 includes/details.php:68 includes/details.php:665
+#: includes/table.php:42
+msgid "Inactive"
+msgstr ""
+
+#: includes/upload_action.php:139
+msgid "Incorrect format"
+msgstr ""
+
+#: includes/upload_action.php:74
+msgid "Incorrect JSON format"
+msgstr ""
+
+#: includes/details.php:151 includes/details.php:741 includes/shortcode.php:346
+#: includes/table.php:333
+msgid "Last"
+msgstr ""
+
+#: includes/details.php:145 includes/details.php:736 includes/shortcode.php:340
+#: includes/table.php:327
+msgid "Loading..."
+msgstr ""
+
+#: includes/table.php:148
+msgid "Maximum number of rows"
+msgstr ""
+
+#: includes/column.php:33 includes/column.php:66 includes/table.php:28
+#: includes/table.php:58
+msgid "Name"
+msgstr ""
+
+#: includes/details.php:152 includes/details.php:742 includes/shortcode.php:347
+#: includes/table.php:334
+msgid "Next"
+msgstr ""
+
+#: includes/details.php:138 includes/details.php:729 includes/shortcode.php:333
+#: includes/table.php:320
+msgid "No data available in table"
+msgstr ""
+
+#: includes/details.php:148 includes/details.php:738 includes/shortcode.php:343
+#: includes/table.php:330
+msgid "No matching records found"
+msgstr ""
+
+#: includes/table.php:208
+msgid "Note"
+msgstr ""
+
+#: includes/xs_import.php:32
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/upload_action.php:143
+msgid "Only CSV, XLS, XLSX or JSON file format is allowed"
+msgstr ""
+
+#: includes/xsoption.php:53
+msgid "Options"
+msgstr ""
+
+#: includes/column.php:118
+msgid "Orderable"
+msgstr ""
+
+#: includes/table.php:89
+msgid "Page Length"
+msgstr ""
+
+#: includes/table.php:128
+msgid "Pagination"
+msgstr ""
+
+#: includes/column.php:411 includes/column.php:440 includes/column.php:469
+#: includes/column.php:498 includes/details.php:511 includes/details.php:540
+#: includes/details.php:569 includes/details.php:598 includes/details.php:1002
+#: includes/details.php:1031 includes/table.php:502 includes/table.php:531
+#: includes/table.php:560
+msgid "Please Select at least one checkbox!"
+msgstr ""
+
+#: includes/upload_action.php:146
+msgid "Please Select File"
+msgstr ""
+
+#: includes/column.php:78
+msgid "Position"
+msgstr ""
+
+#: includes/details.php:153 includes/details.php:743 includes/shortcode.php:348
+#: includes/table.php:335
+msgid "Previous"
+msgstr ""
+
+#: includes/table.php:31
+msgid "Records"
+msgstr ""
+
+#: includes/details.php:218 includes/details.php:810 includes/shortcode.php:239
+#: includes/table.php:242
+msgid "Reset"
+msgstr ""
+
+#: includes/table.php:82
+msgid "Responsive"
+msgstr ""
+
+#: includes/details_action.php:280
+msgid "Row Added"
+msgstr ""
+
+#: includes/details_action.php:377
+msgid "Row Copied"
+msgstr ""
+
+#: includes/details_action.php:307
+msgid "Row Edited"
+msgstr ""
+
+#: includes/details_action.php:326 includes/details_action.php:386
+msgid "Row has been Deleted"
+msgstr ""
+
+#: includes/details_action.php:320 includes/details_action.php:343
+#: includes/details_action.php:360 includes/post_action.php:112
+#: includes/post_action.php:129 includes/post_action.php:146
+#: includes/woo_action.php:103 includes/woo_action.php:120
+#: includes/woo_action.php:137 includes/woo_order.php:77
+#: includes/woo_order.php:94 includes/woo_order.php:111
+msgid "Row status change to "
+msgstr ""
+
+#: includes/details.php:160 includes/details.php:750 includes/details.php:750
+#: includes/shortcode.php:355 includes/shortcode.php:355
+msgid "Search Panes"
+msgstr ""
+
+#: includes/details.php:147 includes/shortcode.php:342 includes/table.php:329
+msgid "Search..."
+msgstr ""
+
+#: includes/details.php:737
+msgid "Search:"
+msgstr ""
+
+#: includes/column.php:125
+msgid "Searchable"
+msgstr ""
+
+#: includes/details.php:279 includes/details.php:304 includes/details.php:328
+#: includes/details.php:842 includes/details.php:867 includes/details.php:891
+#: includes/shortcode.php:280 includes/shortcode.php:305 includes/table.php:69
+#: includes/table.php:290 includes/table.php:304 includes/xs_import.php:26
+#: includes/xs_import.php:42 includes/xs_import.php:45
+msgid "Select"
+msgstr ""
+
+#: includes/table.php:141
+msgid "Server-side"
+msgstr ""
+
+#: includes/table.php:29
+msgid "Shortcode"
+msgstr ""
+
+#: includes/details.php:735
+msgid "Show _MENU_"
+msgstr ""
+
+#: includes/table.php:102
+msgid "Show Export"
+msgstr ""
+
+#: includes/table.php:95
+msgid "Show Footer"
+msgstr ""
+
+#: includes/details.php:140 includes/details.php:731 includes/shortcode.php:335
+#: includes/table.php:322
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: includes/details.php:139 includes/details.php:730 includes/shortcode.php:334
+#: includes/table.php:321
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: includes/table.php:111
+msgid "Sorting Column"
+msgstr ""
+
+#: includes/table.php:115
+msgid "Sorting Type"
+msgstr ""
+
+#: includes/xs_import.php:36
+msgid "Source"
+msgstr ""
+
+#: includes/column.php:39 includes/details.php:44 includes/details.php:59
+#: includes/details.php:367 includes/details.php:644 includes/details.php:657
+#: includes/table.php:33
+msgid "Status"
+msgstr ""
+
+#: includes/table_action.php:160 includes/table_action.php:199
+msgid "Table Name Deleted"
+msgstr ""
+
+#: includes/table_action.php:151 includes/table_action.php:173
+#: includes/table_action.php:186
+msgid "Table status change to "
+msgstr ""
+
+#: includes/column_action.php:72 includes/column_action.php:180
+#: includes/table_action.php:58 includes/table_action.php:117
+msgid "The name has already been taken or invalid"
+msgstr ""
+
+#: includes/xs_import.php:127
+msgid ""
+"The number of columns specified does not match the number of columns in the "
+"import file."
+msgstr ""
+
+#: includes/table_action.php:90
+msgid "The table was added successfully."
+msgstr ""
+
+#: includes/table_action.php:138
+msgid "The table was saved successfully."
+msgstr ""
+
+#: includes/xs_import.php:241
+msgid ""
+"This action is not reversable. Click Ok to continue. Click Cancel to abort."
+msgstr ""
+
+#: includes/column.php:95
+msgid "Total for column"
+msgstr ""
+
+#: includes/column.php:38 includes/table.php:30 includes/table.php:67
+#: includes/xs_import.php:24
+msgid "Type"
+msgstr ""
+
+#: includes/xsoption.php:73 includes/xsoption.php:81
+msgid "Uninstall"
+msgstr ""
+
+#: includes/column.php:104
+msgid "Width (%)"
+msgstr ""
+
+#: includes/column.php:36
+msgid "Width(%)"
+msgstr ""
+
+#. Name of the plugin
+msgid "xsDataTables - DataTables for WordPress"
+msgstr ""
+
+#. Author of the plugin
+msgid "xsdatatables.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"You can create tables of products, orders, posts, pages with searchable, "
+"filterable, responsive from the admin panel quickly, effectively, and easily "
+"without having to write code."
+msgstr ""

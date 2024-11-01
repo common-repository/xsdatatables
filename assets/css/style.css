@@ -1,0 +1,312 @@
+.container_xs {
+	padding: 10px 0px;
+	text-transform: none !important;
+	color: #3a3a3a;
+}
+.container_xs th {
+	font-size: unset;
+	text-transform: none !important;
+}
+.container_xs thead {
+	background-color: unset;
+	color: unset;
+}
+.container_xs button.dt-button, div.dt-button, a.dt-button, input.dt-button {
+	font-family: unset;
+	text-transform: none !important;
+    line-height: unset;
+    height: 40px;
+	min-height: 40px;
+	margin-top: 0px;
+	font-weight: unset;
+	padding: 4px 10px;
+    margin-left: 1.5px;
+    margin-right: 5.5px;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	border-radius: 2px;
+	float: left;
+}
+.container_xs table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd {
+    background-color: #f9f9f9 !important;
+}
+.container_xs table.dataTable.stripe tbody tr.even, table.dataTable.display tbody tr.even {
+    background-color: #fff !important;
+}
+.container_xs div.dtsb-searchBuilder button.dtsb-button {
+    font-family: unset;
+	text-transform: none;
+}
+.container_xs div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dtsp-topRow div.dtsp-searchCont input.dtsp-search {
+    font-family: unset;
+}
+.container_xs div.dtsp-panesContainer button.dtsp-clearAll, div.dtsp-panesContainer button.dtsp-collapseAll, div.dtsp-panesContainer button.dtsp-showAll {
+    font-family: unset;
+	font-size: unset;
+	text-transform: none;
+}
+.container_xs label {
+    display: inline-flex;
+    align-items: center;
+	width: unset;
+	max-width: 100%;
+}
+.container_xs .form-select {
+    min-height: 34px;
+}
+.container_xs .form-control {
+    min-height: 34px;
+}
+.container_xs .dataTables_wrapper {
+	padding: 10px;
+	margin-bottom: unset;
+}
+.container_xs .dataTables_wrapper .dataTables_length {
+	margin-bottom: 5px;
+	text-align: center;
+	display: inline-flex;
+	align-items: center;
+}
+.container_xs .dataTables_wrapper .dataTables_filter {
+	margin-top: 2px;
+	margin-bottom: 5px;
+}
+.container_xs .dataTables_wrapper .dataTables_filter input {
+    padding: 4px;
+	height: 40px;
+	min-height: 40px;
+	text-align: left;
+}
+.container_xs table.dataTable tbody th, table.dataTable tbody td {
+    vertical-align: middle !important;
+}
+.container_xs .table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    vertical-align: middle;
+	min-width: 15px;
+}
+.container_xs table.dataTable thead .sorting {
+    background-image: none !important;
+}
+.container_xs table.dataTable thead .sorting_asc {
+    background-image: none !important;
+	padding: 10px 18px;
+}
+.container_xs table.dataTable thead .sorting_desc {
+    background-image: none !important;
+	padding: 10px 18px;
+}
+.container_xs table.dataTable thead th, table.dataTable thead td {
+    padding: 10px 18px;
+}
+.container_xs .pull-center {
+	text-align: center;
+}
+.container_xs .dataTables_wrapper .dataTables_length select {
+	font-family: unset;
+	font-size: unset;
+	text-transform: none !important;
+	margin-right: 6px !important; 
+	margin-top: 2px;
+	margin-bottom: 2px;
+    padding-right: 25px !important;
+	height: 40px;
+	min-height: 40px;
+	width: fit-content;
+}
+.container_xs .dataTables_length label {
+	font-weight: unset;
+	font-size: unset;
+	display: inline-flex;
+	align-items: center;
+}
+.container_xs .dataTables_filter label {
+	font-weight: unset;
+	font-size: unset;
+	max-height: 40px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.container_xs table.dataTable thead th, table.dataTable tfoot th {
+    font-weight: bold;
+}
+.container_xs .dataTables_wrapper label input, .dataTables_wrapper label select {
+    margin: 2px;
+}
+.container_xs table.dataTable tfoot th, table.dataTable tfoot td {
+    padding: 8px !important;;
+}
+.container_xs table.dataTable tfoot input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select {
+    max-width: 100%;
+	width: 100%;
+	box-sizing: border-box;
+}
+.container_xs div.dtsb-searchBuilder div.dtsb-group div.dtsb-criteria select.dtsb-dropDown, div.dtsb-searchBuilder div.dtsb-group div.dtsb-criteria input.dtsb-input {
+    padding-right: 25px !important;
+	font-family: unset;
+	width: fit-content;
+	max-width: 30%;
+}
+.container_xs div.dtsb-searchBuilder div.dtsb-group div.dtsb-criteria div.dtsb-inputCont input.dtsb-value {
+    height: 46px;
+}
+.container_xs div.dtsp-panesContainer button.dtsp-clearAll, div.dtsp-panesContainer button.dtsp-collapseAll, div.dtsp-panesContainer button.dtsp-showAll {
+    color: #333;
+}
+.container_xs div.dtsp-panesContainer button.dtsp-disabledButton {
+    color: #7c7c7c;
+}
+.container_xs .dt-buttons {
+	float: left;
+	padding-top: 2px;
+}
+.container_xs .btn-group-xs>.btn, .btn-xs {
+	padding: 4px 10px;
+    font-size: 14px;
+    border-radius: 2px;
+}
+.container_xs .text-left {
+    text-align: left !important;
+}
+.container_xs .text-center {
+    text-align: center !important;
+}
+.container_xs .text-right {
+    text-align: right !important;
+}
+.container_xs .panel {
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    margin-bottom: 0px;
+	padding-bottom: 5px;
+}
+.container_xs .panel-default {
+    border-color: #ddd;
+}
+@media (min-width: 641px){
+	.container_xs input[type=checkbox]:checked::before {
+		margin: unset;
+		width: 15px;
+		height: 15px;
+	}
+}
+@media screen and (max-width: 640px){
+	.container_xs .dataTables_wrapper .dataTables_length {
+		display: block;
+		margin-bottom: unset;
+	}
+	.container_xs input[type=checkbox]:checked::before {
+		margin: unset;
+		width: 15px;
+		height: 15px;
+	}
+	.container_xs .dataTables_wrapper .dataTables_filter {
+		margin-bottom: 5px;
+		margin-top: unset;
+	}
+	.container_xs button.dt-button, div.dt-button, a.dt-button, input.dt-button {
+		float: unset;
+		margin-right: 1.5px;
+	}
+	.container_xs .dataTables_wrapper .dataTables_length select {
+		width: 100% !important;
+		display: flex !important;
+	}
+	.container_xs .dataTables_wrapper {
+		padding: 5px;
+	}
+	.container_xs .dataTables_length label {
+		display: none !important;
+	}
+	.container_xs .dataTables_filter label {
+		width: 100%;
+	}
+	.container_xs .dataTables_wrapper label input {
+		margin: 0;
+	}
+}
+.container_xs .star-rating {
+    overflow: hidden;
+    position: relative;
+    height: 1em;
+    line-height: 1;
+    font-size: 1em;
+    width: 5.4em;
+    font-family: star;
+}
+.container_xs .star-rating span {
+    overflow: hidden;
+    float: left;
+    top: 0;
+    color: #ffc107;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+}
+.container_xs .star-rating::before {
+    content: "sssss";
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.container_xs .star-rating span::before {
+    content: "SSSSS";
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+.container_xs .woocommerce a.added_to_cart {
+    display: none;
+}
+.container_xs input[type=checkbox], input[type=radio] {
+	margin: unset;
+	height: 15px;
+	width: 15px;
+}
+.container_xs .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+.container_xs table, td, th {
+    border: 1px solid rgba(0,0,0,.1);
+	margin-bottom: 5px;
+}
+.container_xs td, th {
+    border-width: 0 1px 1px 0;
+}
+/* player */
+.container_xs .xs_player_container {
+	display: inline;
+}
+.container_xs .xs_player_container .myButton_play {
+	background: transparent url(../images/play-button.png) no-repeat !important;
+	vertical-align: middle;
+	cursor: pointer !important;
+	width: 32px !important;
+	height: 32px !important;
+	border: none !important;
+	position: relative;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.container_xs .xs_player_container .myButton_stop {
+	background: transparent url(../images/pause-button.png) no-repeat !important;
+	vertical-align: middle;
+	cursor: pointer !important;
+	width: 32px !important;
+	height: 32px !important;
+	border: none !important;
+	position: relative;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+/* player */
+.container_xs a[href]:after {
+	content: "";
+}
+.container_xs input[type="search"] {
+    box-sizing: border-box;
+	width: 100%;
+}
